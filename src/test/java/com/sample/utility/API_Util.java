@@ -4,7 +4,7 @@ import io.restassured.http.ContentType;
 
 import static io.restassured.RestAssured.given;
 
-public class LibraryAPI_Util {
+public class API_Util {
 
 
     /**
